@@ -1,5 +1,5 @@
-# my-first-proJect
-Repo for C++ Projects.
+//my-first-proJect
+//Repo for C++ Projects.
 
 #include<iostream>
 #include<string.h>
