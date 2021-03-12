@@ -22,28 +22,3 @@ We can Understand the concept and working of project by laying out all modules a
 Mindmap
 
 More Functionalities can easily be added in this program due to the nature of project. This Project was for sole purpose of learning C++ and its implementation, hence it is far from a finished software/program to be used anywhere, though it can be modified and used for learning purposes.
-
-Screenshots of Program
-Profile Handling
-Create Profile	View Profile
-Create Profile	View Profile
-Bill Entry
-Bill Menu	Bill from Firm	Bill for Firm
-Bill Entry	Bill Entry 1	Bill Entry 2
-Bill Search
-Bill Search Menu	Bill Search Output
-Bill Search 1	Bill Search 2
-All Bills
-Show all bills
-Product Entry
-Add Product
-Find Product
-Find Product
-All Products
-All Product
-Create Invoice
-Create Invoice
-Search Invoice
-Search Invoice
-All Invoice
-All Invoice
